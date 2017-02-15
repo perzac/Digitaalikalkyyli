@@ -5,7 +5,7 @@ unit UInt512_arithmetic;
 interface
 
 uses
-  OWord_arithmetic, Arithmetic_assist, Character, UInt256_arithmetic;
+  SysUtils, OWord_arithmetic, Arithmetic_assist, Character, UInt256_arithmetic;
 
 Type
   UInt512 = Array [0..7] of QWord;
