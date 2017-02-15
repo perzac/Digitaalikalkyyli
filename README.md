@@ -1,2 +1,2 @@
-# Digitaalikalkyyli
+### Digitaalikalkyyli
 Käytetään hyväksi tietokoneen laskentakykyä
