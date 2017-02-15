@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="aritmetiikan_testaus.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="17" Y="10"/>
+        <UsageCount Value="142"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="testilaskin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="LaskimenPohja"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos Y="409"/>
+        <UsageCount Value="142"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uint256_arithmetic.pas"/>
+        <UnitName Value="UInt256_arithmetic"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="13" Y="8"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="oword_arithmetic.pas"/>
+        <UnitName Value="OWord_arithmetic"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="40" Y="6"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="uint512_arithmetic.pas"/>
+        <UnitName Value="UInt512_arithmetic"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="13" Y="8"/>
+        <UsageCount Value="43"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="uint1024_arithmetic.pas"/>
+        <UnitName Value="UInt1024_arithmetic"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="980"/>
+        <CursorPos X="25" Y="997"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="arithmetic_assist.pas"/>
+        <UnitName Value="Arithmetic_assist"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="47" Y="34"/>
+        <UsageCount Value="31"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value=""/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="testilaskin.lfm"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="47" Y="7"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="247" TopLine="222"/>
+      </Position1>
+      <Position2>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="888" TopLine="866"/>
+      </Position2>
+      <Position3>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="891" Column="41" TopLine="866"/>
+      </Position3>
+      <Position4>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="247" TopLine="222"/>
+      </Position4>
+      <Position5>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="888" TopLine="863"/>
+      </Position5>
+      <Position6>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="891" Column="33" TopLine="863"/>
+      </Position6>
+      <Position7>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="247" TopLine="222"/>
+      </Position7>
+      <Position8>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="892" Column="23" TopLine="867"/>
+      </Position8>
+      <Position9>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="247" TopLine="222"/>
+      </Position9>
+      <Position10>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="891" Column="33" TopLine="859"/>
+      </Position10>
+      <Position11>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="886" Column="14" TopLine="864"/>
+      </Position11>
+      <Position12>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="785" Column="36" TopLine="809"/>
+      </Position12>
+      <Position13>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="892" Column="17" TopLine="866"/>
+      </Position13>
+      <Position14>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="247" TopLine="225"/>
+      </Position14>
+      <Position15>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="888" TopLine="863"/>
+      </Position15>
+      <Position16>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="890" Column="18" TopLine="863"/>
+      </Position16>
+      <Position17>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="784" TopLine="759"/>
+      </Position17>
+      <Position18>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="893" TopLine="868"/>
+      </Position18>
+      <Position19>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="784" TopLine="759"/>
+      </Position19>
+      <Position20>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="893" TopLine="781"/>
+      </Position20>
+      <Position21>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="886" Column="20" TopLine="869"/>
+      </Position21>
+      <Position22>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="893" Column="14" TopLine="868"/>
+      </Position22>
+      <Position23>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="143" TopLine="118"/>
+      </Position23>
+      <Position24>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="215" TopLine="190"/>
+      </Position24>
+      <Position25>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="891" TopLine="866"/>
+      </Position25>
+      <Position26>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="215" TopLine="190"/>
+      </Position26>
+      <Position27>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="143" TopLine="118"/>
+      </Position27>
+      <Position28>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="890" Column="24" TopLine="866"/>
+      </Position28>
+      <Position29>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="884" Column="18" TopLine="866"/>
+      </Position29>
+      <Position30>
+        <Filename Value="oword_arithmetic.pas"/>
+        <Caret Line="8" Column="13"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
