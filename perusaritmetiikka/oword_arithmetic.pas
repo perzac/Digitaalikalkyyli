@@ -5,7 +5,7 @@ unit OWord_arithmetic;
 interface
 
 uses
-  Character;
+  SysUtils, Character;
 
 type
   OWord = record
