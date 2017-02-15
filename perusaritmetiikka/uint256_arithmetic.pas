@@ -5,7 +5,7 @@ unit UInt256_arithmetic;
 interface
 
 uses
-  OWord_arithmetic, Arithmetic_assist, Character;
+  SysUtils, OWord_arithmetic, Arithmetic_assist, Character;
 
 type
   UInt256 = Array [0..3] of QWord;
