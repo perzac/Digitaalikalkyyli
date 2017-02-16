@@ -55,17 +55,17 @@ ohjelman toiminnallisuutta käytetään. Näitä toiminnallisuuksia voivat olla
 esimerkiksi
 
 <dl>
-	<dt style="font-family: monospace;">kasvata</dt>
+	<dt>kasvata</dt>
 	<dd>Laskee alkulukutiedostoon lisää alkulukuja</dd>
-	<dt style="font-family: monospace;">testaa</dt>
+	<dt>testaa</dt>
 	<dd>Testaa, onko annettu luku alkuluku</dd>
-	<dt style="font-family: monospace;">pi</dt>
+	<dt>pi</dt>
 	<dd>Kertoo annettua lukua pienempien tai yhtäsuurten alkulujen lukumäärän (alkulukufunktio)</dd>
-	<dt style="font-family: monospace;">invpi</dt>
+	<dt>invpi</dt>
 	<dd>Kertoo n:nnen alkuluvun (edellisen käänteisfunktio)</dd>
-	<dt style="font-family: monospace;">suurin</dt>
+	<dt>suurin</dt>
 	<dd>Kertoo suurimman anettua lukua pienemmän tai yhtäsuuren alkuluvun</dd>
-	<dt style="font-family: monospace;">pienin</dt>
+	<dt>pienin</dt>
 	<dd>Kertoo pienimmän annettua lukua suuremman tai yhtäsuuren alkuluvun</dd>
 </dl>
 
@@ -295,11 +295,10 @@ Alkulukulauseen mukaan alkulukujen välinen etäisyys on keskimäärin
 likimäärin ln(x), kun x on tarkasteltavien lukujen suuruus. Jos lisättävien
 alkulukujen määrä on nyt `lisays`,
 saadaan arvio
-<p style="margin-left: 2.5em;">&pi;((k + 2)^2) - &pi;(k^2) <br>
-&lt; 4*(`neliojuuri` + 1) /
-lg((`neliojuuri` + 2)^2) <br>
-= 2*(`neliojuuri` + 1) /
-lg(`neliojuuri` + 2),
+<pre>
+&pi;((k + 2)^2) - &pi;(k^2) &lt; 4*(`neliojuuri` + 1) / lg((`neliojuuri` + 2)^2)<br>
+					= 2*(`neliojuuri` + 1) / lg(`neliojuuri` + 2),
+</pre>
 missä &pi; on alkulukufunktio ja lg 2-kantainen logaritmi, sillä parittomien
 neliöiden välissä olevien lukujen määrä on (k + 2)^2 - k^2 = 4(k + 1).
 
