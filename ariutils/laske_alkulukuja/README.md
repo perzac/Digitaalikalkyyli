@@ -1,0 +1,1 @@
+Tämä ohjelma on alkulukutiedoston luomista ja täydentämistä varten. Oleellisesti tämä on sama ohjelma kuin tämän repositorion `eratosthenes`-kansion `eratos`-ohjelma. Ohjelman toiminnan kuvaus löytyy tiedostosta `Digitaalikalkyyli/eratosthenes/eratosthenes.md `.
